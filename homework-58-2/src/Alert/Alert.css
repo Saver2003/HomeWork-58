@@ -1,0 +1,40 @@
+.primary {
+    background: rgba(39, 255, 40, 0.44);
+    color: #00d803;
+    width: 40%;
+    height: 40px;
+    margin: 10px auto 10px;
+    padding-top: 20px;
+}
+
+.success {
+    background: rgba(69, 200, 255, 0.44);
+    color: #0090d8;
+    width: 40%;
+    height: 40px;
+    margin: 0 auto 10px;
+    padding-top: 20px;
+}
+
+.danger {
+    background: rgba(255,245,70,0.44);
+    color: #d8b128;
+    width: 40%;
+    height: 40px;
+    margin: 0 auto 10px;
+    padding-top: 20px;
+}
+
+.warning {
+    background: rgba(255, 93, 9, 0.44);
+    color: #d85c1c;
+    width: 40%;
+    height: 40px;
+    margin: 0 auto 10px;
+    padding-top: 20px;
+}
+
+span {
+    float: right;
+    padding-right: 30px;
+}
